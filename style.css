@@ -1,0 +1,15 @@
+:root {
+    --font: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    --dark-background-color: #1f2937;
+    --hero-main-text-size: 48px;
+    --hero-main-text-color: #f9faf8;
+    --hero-main-text-weight: 900;
+    --hero-secondary-text-size: 18px;
+    --hero-secondary-text-color: #e5e7eb;
+    --header-logo-text-size: 24px;
+    --header-logo-text-color: #f9faf8;
+    --button-color: #3882f6;
+    --information-header-text-size: 36px;
+    --information-header-text-color: #1f2937;
+    --information-header-text-weight: 900;
+}
