@@ -133,3 +133,20 @@ button {
     border-radius: 16px;
     margin-bottom: 8px;
 }
+
+.quote-section {
+    background-color: var(--quote-section-background-color);
+    padding: 120px 200px;
+}
+
+.quote {
+    font-size: var(--quote-font-size);
+    font-style: var(--quote-font-style);
+    font-weight: var(--quote-font-weight);
+    margin-bottom: 8px;
+}
+
+.quote-author {
+    font-size: var(--header-logo-text-size);
+    text-align: right;
+}
