@@ -136,7 +136,7 @@ button {
 
 .quote-section {
     background-color: var(--quote-section-background-color);
-    padding: 120px 200px;
+    padding: 120px 300px;
 }
 
 .quote {
@@ -149,4 +149,31 @@ button {
 .quote-author {
     font-size: var(--header-logo-text-size);
     text-align: right;
+}
+
+.sign-up-section {
+    padding: 80px 150px;
+}
+
+.sign-up-container {
+    background-color: var(--button-color);
+    padding: 40px 75px;
+    border-radius: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.sign-up-title {
+    color: var(--hero-main-text-color);
+    font-size: var(--hero-secondary-text-size);
+    font-weight: var(--hero-main-text-weight)
+}
+
+.sign-up-text {
+    color: var(--hero-secondary-text-color);
+}
+
+.sign-up-section button {
+    margin-left: auto;
+    border: 4px solid var(--hero-secondary-text-color);
 }
