@@ -177,3 +177,10 @@ button {
     margin-left: auto;
     border: 4px solid var(--hero-secondary-text-color);
 }
+
+.footer {
+    background-color: var(--information-header-text-color);
+    color: var(--hero-secondary-text-color);
+    padding: 40px;
+    text-align: center;
+}
