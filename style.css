@@ -12,6 +12,10 @@
     --information-header-text-size: 36px;
     --information-header-text-color: #1f2937;
     --information-header-text-weight: 900;
+    --quote-section-background-color: #e5e7eb;
+    --quote-font-size: 36px;
+    --quote-font-weight: lighter;
+    --quote-font-style: italic;
 }
 
 body {
